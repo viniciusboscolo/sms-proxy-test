@@ -27,7 +27,7 @@
     <h1>API Proxy</h1>
     <p>Please input the token, and click the botton to execute de function.</p>
 
-    <input type="text" id="token" placeholder="Insira o token aqui" style="width: 300px;">
+    <input type="text" id="token" placeholder="Input the token here" style="width: 300px;">
     <br>
 
     <button onclick="callApi('/api/getNumber?country=se&service=wa')">Get Number</button>
