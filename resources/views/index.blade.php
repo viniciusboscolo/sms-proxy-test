@@ -36,7 +36,7 @@
     <button onclick="callApi('/api/getStatus?activation={activation}')">Get Status</button>
     <h2>Resposta:</h2>
     <div id="response">
-        <p>A resposta da API aparecerá aqui.</p>
+        <p>Answer API.</p>
     </div>
 </body>
 </html>
